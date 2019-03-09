@@ -1,3 +1,4 @@
 this is a test file for test create a file to git
 create a new branch to test
 df resolve question
+merge style is not fast forword
